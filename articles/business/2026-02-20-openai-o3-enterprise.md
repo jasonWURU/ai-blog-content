@@ -1,5 +1,5 @@
 ---
-title: "OpenAI 發布 o3 企業版，推理成本降低"
+title: "OpenAI 發布 o3 企業版，推理成本降低 test"
 slug: "openai-o3-enterprise-2026"
 category: "business"
 publishedAt: "2026-02-20"
