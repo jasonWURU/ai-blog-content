@@ -1,5 +1,5 @@
 ---
-title: "AI 導師平台推出個人化回饋新功能 test release"
+title: "AI 導師平台推出個人化回饋新功能"
 slug: "ai-tutor-personalized-feedback-2026"
 category: "education"
 publishedAt: "2026-02-18"
@@ -31,3 +31,6 @@ summary:
 ## 限制與不確定性
 
 若缺乏教師回饋，模型可能無法完整反映班級真實狀況。
+
+## 結論
+AI 回饋機制是教育科技重要里程碑，但仍需教師專業判斷輔助。
